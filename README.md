@@ -19,6 +19,7 @@ Install ripgrep
 
 Move ssh keys over
 Clone `dotfiles` repo
+- Copy over config files
 
 4. Install VS Code
 
@@ -31,6 +32,9 @@ Install pre-commit
 
 Install Notable
 - Clone `notable` repo
+Install Amphetamine
+Install Moom
+Install CopyClip2
 
 Set up OneDrive
 
