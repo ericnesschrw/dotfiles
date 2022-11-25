@@ -1,0 +1,6 @@
+[user]
+        name = nesseri
+        email = eric.ness@chrobinson.com
+[core]
+        excludesfile = ~/.gitignore
+        autocrlf = input
