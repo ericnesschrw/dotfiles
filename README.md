@@ -41,3 +41,5 @@ Set up OneDrive
 Lens + kubeconfigs
 
 Install Bing Wallpaper app
+
+Install dive (Docker utility)
