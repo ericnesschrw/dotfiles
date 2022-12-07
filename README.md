@@ -38,7 +38,7 @@ Install CopyClip2
 
 Set up OneDrive
 
-Lens + kubeconfigs
+Lens + kubeconfigs and kubectl
 
 Install Bing Wallpaper app
 
