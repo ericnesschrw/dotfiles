@@ -4,7 +4,7 @@ eval "$(pyenv init -)"
 
 export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/github
-source $HOME/.pyenv/versions/3.9.0/bin/virtualenvwrapper.sh
+source $HOME/.pyenv/versions/3.11.0/bin/virtualenvwrapper.sh
 
 # Created by `pipx` on 2021-05-27 16:01:18
 export PATH="$PATH:/Users/nesseri/.local/bin"
