@@ -9,6 +9,9 @@ source $HOME/.pyenv/versions/3.11.0/bin/virtualenvwrapper.sh
 # Created by `pipx` on 2021-05-27 16:01:18
 export PATH="$PATH:/Users/nesseri/.local/bin"
 
+export VAULT_ADDR=https://vault-prod.eastus2.chrazure.cloud
+export VAULT_TOKEN=$(cat ~/.vault-token)
+
 # take out if using oh my zsh
 autoload -Uz compinit
 compinit
