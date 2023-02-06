@@ -5,6 +5,10 @@ Environment configuration files
 
 ### Unix
 
+1. Install homebrew
+1. Install vault
+1. Install teller
+
 #### macOS
 
 1. Update OS
