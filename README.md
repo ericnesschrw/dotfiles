@@ -3,8 +3,10 @@ Environment configuration files
 
 ## Bootstrapping a new machine
 
-### Unix
+### Azure ML Compute
 
+1. Follow (set up instructions)[https://wiki.chrazure.cloud/general/AzureML/azureml-getting-started/] for Azure ML compute
+1. Generate ssh key and add to Github
 1. Install homebrew
 1. Install vault
 1. Install teller
