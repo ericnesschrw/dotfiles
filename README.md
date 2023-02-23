@@ -7,9 +7,26 @@ Environment configuration files
 
 1. Follow (set up instructions)[https://wiki.chrazure.cloud/general/AzureML/azureml-getting-started/] for Azure ML compute
 1. Generate ssh key and add to Github
-1. Install homebrew
+1. Install homebrew using `CI=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+1. Install zsh
+1.  azureuser ALL=(ALL) NOPASSWD:ALL
+1. Update shell to zsh using `chsh`. [Permissions need to be updated.](https://askubuntu.com/questions/812420/chsh-always-asking-a-password-and-get-pam-authentication-failure)
+1. Update config files from dotfiles repo
+1. Install neovim
+1. Install fzf
+1. Install starship
+1. Install ripgrep
+1. Install pyenv
+    1. Install recent version of python
+    1. Set as global default 
+1. Install pipx
+1. Install virtualenvwrapper
+1. Install black
+1. Install pre-commit
+1. Install fzf
 1. Install vault
 1. Install teller
+1. Install librdkafka
 
 #### macOS
 
