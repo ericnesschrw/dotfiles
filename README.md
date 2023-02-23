@@ -20,10 +20,9 @@ Environment configuration files
     1. Install recent version of python
     1. Set as global default 
 1. Install pipx
-1. Install virtualenvwrapper
-1. Install black
+    1. Install virtualenvwrapper
+    1. Install black
 1. Install pre-commit
-1. Install fzf
 1. Install vault
 1. Install teller
 1. Install librdkafka
