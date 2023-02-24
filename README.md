@@ -24,6 +24,7 @@ Environment configuration files
 1. Install pre-commit
 1. Install vault
 1. Install teller
+1. Install jq
 1. Install librdkafka
 
 #### macOS
