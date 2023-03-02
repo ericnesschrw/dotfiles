@@ -12,7 +12,7 @@ Environment configuration files
 1. Update shell to zsh using `chsh`. [Permissions need to be updated.](https://askubuntu.com/questions/812420/chsh-always-asking-a-password-and-get-pam-authentication-failure)
 1. Update config files from dotfiles repo
 1. Install neovim
-1. Install fzf
+1. [Install fzf](https://github.com/junegunn/fzf#using-homebrew)
 1. Install starship
 1. Install ripgrep
 1. Install pyenv
