@@ -15,6 +15,7 @@ Environment configuration files
 1. [Install fzf](https://github.com/junegunn/fzf#using-homebrew)
 1. Install starship
 1. Install ripgrep
+1. apt install libsqlite3-dev
 1. Install pyenv
     1. Install recent version of python
     1. Set as global default 
