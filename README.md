@@ -18,7 +18,7 @@ Environment configuration files
 1. Install ripgrep
 1. `sudo apt install libsqlite3-dev`
 1. Install pyenv
-    1. Install recent version of python
+    1. [Install recent version of python](https://realpython.com/intro-to-pyenv/)
     1. Set as global default 
 1. Install pipx
     1. Install virtualenvwrapper
