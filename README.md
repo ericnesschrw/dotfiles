@@ -5,7 +5,7 @@ Environment configuration files
 
 ### Azure ML Compute
 
-1. Follow (set up instructions)[https://wiki.chrazure.cloud/general/AzureML/azureml-getting-started/] for Azure ML compute
+1. Follow [set up instructions](https://wiki.chrazure.cloud/general/AzureML/azureml-getting-started/) for Azure ML compute
 1. Generate ssh key and add to Github
 1. Install homebrew using `CI=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 1. Install zsh
