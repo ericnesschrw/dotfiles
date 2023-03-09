@@ -23,6 +23,7 @@ Environment configuration files
     libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
     libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
 ```
+1. Deactivate any conda environments
 1. Install pyenv
     1. [Install recent version of python](https://realpython.com/intro-to-pyenv/)
     1. Set as global default 
