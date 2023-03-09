@@ -17,6 +17,12 @@ Environment configuration files
 1. Install starship
 1. Install ripgrep
 1. `sudo apt install libsqlite3-dev`
+1. Install pyenv build dependencies
+```
+    sudo apt-get update; sudo apt-get install make build-essential libssl-dev zlib1g-dev \
+    libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
+    libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+```
 1. Install pyenv
     1. [Install recent version of python](https://realpython.com/intro-to-pyenv/)
     1. Set as global default 
