@@ -9,6 +9,7 @@ Environment configuration files
 1. Generate ssh key and add to Github
 1. Install homebrew using `CI=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 1. Install zsh
+1. Add `/home/linuxbrew/.linuxbrew/bin/zsh` to `/etc/shells`
 1. Update shell to zsh using `chsh`. [Permissions need to be updated.](https://askubuntu.com/questions/812420/chsh-always-asking-a-password-and-get-pam-authentication-failure)
 1. Update config files from dotfiles repo
 1. Install neovim
