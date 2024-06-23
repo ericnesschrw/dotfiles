@@ -23,7 +23,7 @@ Environment configuration files
     libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
 ```
 1. Deactivate any conda environments
-1. Install pyenv
+1. Install pyenv (Use pyenv install script. Do NOT use Brew)
     1. [Install recent version of python](https://realpython.com/intro-to-pyenv/)
     1. Set as global default 
 1. Install pipx
